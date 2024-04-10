@@ -1,1 +1,2 @@
-# FXGuiMaker
+The JavaFX GUI Structure Visualizer is a comprehensive tool designed to assist developers in understanding and creating complex graphical user interfaces (GUIs) in JavaFX. This project aims to provide a visual representation of the hierarchical tree structure that underpins JavaFX applications, focusing on controllers, containers, and other UI components. By visualizing the relationships and dependencies between elements, this tool simplifies the process of designing, analyzing, and debugging JavaFX GUI layouts.
+
